@@ -35,13 +35,6 @@ I started out writing embedded and manufacturing software, and now I build acros
       <sub>React · Hono · Cloudflare Workers · D1 · Tailwind · Framer Motion</sub>
     </td>
   </tr>
-  <tr>
-    <td align="center">👽</td>
-    <td>
-      <b><a href="https://github.com/fr0ggy-p3ngu1n/python-first-contact">Python: First Contact</a></b>: an alien-themed Python quiz game with a live in-browser Python sandbox.<br>
-      <sub>React · Vite · Pyodide (WebAssembly) · <a href="https://python-first-contact.vercel.app">play it</a></sub>
-    </td>
-  </tr>
 </table>
 
 ### What I work with
