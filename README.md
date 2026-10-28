@@ -1,10 +1,10 @@
-## Hi, I'm Matthew 👋
+<img src="assets/header.png" alt="Matthew Sullivan, Full-Stack Developer. Embedded systems to full stack, open-source AAC tools for kids. matthewsullivan.dev" width="100%">
 
 Gilbert, AZ · [matthewsullivan.dev](https://matthewsullivan.dev)
 
-I started in embedded systems, writing C for hardware that couldn't afford to fail, and that's still how I think about software. Today I build across the full stack (backend, web, mobile, and cloud), and in my spare time I build **free, open-source tools for kids who communicate differently**.
+I started out writing embedded and manufacturing software, and now I build across the full stack: backend, web, mobile, and cloud. In my own time I make **free, open-source tools for kids who communicate differently**.
 
-### 🌱 What I'm building
+### What I'm building
 
 <table>
   <tr>
@@ -29,7 +29,7 @@ I started in embedded systems, writing C for hardware that couldn't afford to fa
     </td>
   </tr>
   <tr>
-    <td align="center">🧑‍💻</td>
+    <td align="center"><img src="assets/ms-mark.png" width="40" alt=""></td>
     <td>
       <b><a href="https://github.com/fr0ggy-p3ngu1n/portfolio-monorepo">matthewsullivan.dev</a></b>: my portfolio and a live full-stack demo, plus a hidden game or two.<br>
       <sub>React · Hono · Cloudflare Workers · D1 · Tailwind · Framer Motion</sub>
@@ -44,7 +44,7 @@ I started in embedded systems, writing C for hardware that couldn't afford to fa
   </tr>
 </table>
 
-### 🛠️ What I work with
+### What I work with
 
 **Languages:** TypeScript · Python · C# · Swift · Dart · C/C++ · SQL
 **Web & backend:** React · Astro · Hono · .NET · Django · Node.js
@@ -52,7 +52,7 @@ I started in embedded systems, writing C for hardware that couldn't afford to fa
 **Mobile:** Flutter · SwiftUI
 **Testing:** Playwright · Vitest · XCTest · PyTest
 
-### 🤝 Say hi
+### Say hi
 
 I'm always happy to talk accessibility, AAC, or open source, and contributions to Sprout and ClearPath are very welcome, no experience required.
 
