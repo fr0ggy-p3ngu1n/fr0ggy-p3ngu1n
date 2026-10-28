@@ -15,7 +15,7 @@ I started in embedded systems, writing C for hardware that couldn't afford to fa
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://clearpathext.com/clearpath-logo.png" width="40" alt=""></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/clearpath-ext/.github/main/brand/clearpath-mark.png" width="40" alt=""></td>
     <td>
       <b><a href="https://github.com/clearpath-ext">ClearPath</a></b>: an accessibility browser extension that reads pages aloud, simplifies text, and adds AAC symbol overlays.<br>
       <sub>TypeScript · React · Manifest V3 · Web Speech API · <a href="https://clearpathext.com">clearpathext.com</a></sub>
