@@ -22,6 +22,13 @@ I started out writing embedded and manufacturing software, and now I build acros
     </td>
   </tr>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/saves-fm/.github/main/brand/saves-icon-512.png" width="40" alt=""></td>
+    <td>
+      <b><a href="https://github.com/saves-fm">saves.fm</a></b>: a free, open-source history and stats app for RetroAchievements players, in the spirit of Last.fm. Charts, play sessions, comparisons with friends, and a year-end recap. In planning now.<br>
+      <sub>React · Hono · Cloudflare Workers · D1 · Flutter · <a href="https://github.com/saves-fm/saves#roadmap">roadmap</a></sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://theredactedrecords.com/icon-512.png" width="40" alt=""></td>
     <td>
       <b><a href="https://theredactedrecords.com">Redacted Records</a></b>: booking and portfolio site for a Phoenix mixing and mastering engineer (client work). Persistent audio player with audio-reactive visuals and a serverless booking pipeline.<br>
@@ -47,6 +54,6 @@ I started out writing embedded and manufacturing software, and now I build acros
 
 ### Say hi
 
-I'm always happy to talk accessibility, AAC, or open source, and contributions to Sprout and ClearPath are very welcome, no experience required.
+I'm always happy to talk accessibility, AAC, or open source, and contributions to Sprout, ClearPath and saves.fm are very welcome, no experience required.
 
 [Portfolio](https://matthewsullivan.dev) · [LinkedIn](https://linkedin.com/in/mlsulli)
